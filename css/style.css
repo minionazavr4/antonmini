@@ -1,0 +1,28 @@
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+body {
+	margin: 0;
+	line-height: 1.6;
+	font-family: "cursive;";
+	background: #ffdd00;
+}
+
+
+.nav {
+	font-size: 14px;
+	text-transform: uppercase;
+	color: white;
+}
+
+.nav__link {
+	color: ffdd00 ;
+}
+
+.text {
+	height: 100px;
+	margin: 60px;
+}
